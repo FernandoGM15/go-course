@@ -1,0 +1,2 @@
+Hello from hola.txt
+We are int the go course
